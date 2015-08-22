@@ -1,0 +1,14 @@
+{
+  "name": "@ianmcburnie/marko-to-html",
+  "version": "0.0.1",
+  "description": "Renders marko template output to file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian McBurnie <ianmcburnie@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "marko": "^2.7.13"
+  }
+}

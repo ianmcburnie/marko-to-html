@@ -10,5 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "marko": "^2.7.13"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianmcburnie/marko-to-html.git"
+  },
+  "homepage": "https://github.com/ianmcburnie/marko-to-html.git"
 }
